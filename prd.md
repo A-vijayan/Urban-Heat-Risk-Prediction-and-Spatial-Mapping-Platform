@@ -2,21 +2,7 @@
 
 # Urban Heat Risk Prediction and Spatial Mapping Platform
 
-| Field | Details |
-|---|---|
-| **Document Version** | 3.0 (Final) |
-| **Date** | October 24, 2026 |
-| **Product Type** | Web-based GIS + Machine Learning decision-support platform |
-| **Core Technology** | XGBoost, PostGIS, Remote Sensing (Landsat/Sentinel/MODIS), Web GIS |
-| **Primary Users** | Urban planners, municipal authorities, public health officials, researchers |
-| **Document Owner** | Product Owner |
 
-### Revision History
-| Version | Date | Change |
-|---|---|---|
-| 1.0 | Oct 24, 2026 | Initial draft |
-| 2.0 | Oct 24, 2026 | Added risk formula, data dictionary, ML spec, API contracts, DB schema, user flows, wireframes, test plan, traceability matrix, ethics, open questions |
-| 3.0 | Oct 24, 2026 | Added stakeholder one-page summary, ADRs, sequence diagrams, deployment/capacity/failure handling, implementation backlog, sprint plan, repo structure, config, CI/CD, cost estimate, ops runbook |
 
 ---
 
